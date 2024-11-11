@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url(img/fundo.jpeg);
+    background: url('assets/img/fundo.jpeg');
     font-family: Bai Jamjuree;
 }
 
@@ -40,7 +40,7 @@ body {
 }
 
 body {
-    background: url(img/fundo.jpeg);
+    background: url('assets/img/fundo.jpeg');
     font-family: Bai Jamjuree;
 }
 …
