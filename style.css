@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url(fundo.jpeg);
+    background: url('img/azul-codigo-binario-3d-vector-linha-de-fundo-abstrato-de-informati-400-35559254.jpg');
     font-family: Bai Jamjuree;
 }
 
@@ -33,7 +33,17 @@ body {
     transition: transform 300ms ease-in-out;
 }
 
-.cartao__conteudo h3 {
+.cartao__conteudo h3 {:root {
+    --text-color: #DBE4EF;
+    --card-front-color: #144480;
+    --card-back-color: #00F4BF;
+}
+
+body {
+    background: url('img/azul-codigo-binario-3d-vector-linha-de-fundo-abstrato-de-informati-400-35559254.jpg');
+    font-family: Bai Jamjuree;
+}
+…
     color: var(--text-color);
     border: 1px solid var(--text-color);
     text-align: left;
@@ -117,4 +127,5 @@ footer p {
     .cartao__conteudo p {
         font-size: 3.8vw;
     }
+
 
