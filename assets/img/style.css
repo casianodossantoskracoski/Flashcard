@@ -38,11 +38,6 @@ body {
     --card-front-color: #144480;
     --card-back-color: #00F4BF;
 }
-
-body {
-    background: url('assets/img/fundo.jpeg');
-    font-family: Bai Jamjuree;
-}
 …
     color: var(--text-color);
     border: 1px solid var(--text-color);
