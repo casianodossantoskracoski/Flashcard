@@ -1,36 +1,36 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'história',
+    'nas margens de qual rio DOM Pedro proclamou a independência?',
+    'rio ipiranga'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual a capital do paraná?',
+    'A capital do paraná é curitiba'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'conhecimentos',
+    'em qual ano pelé morreu?',
+    '2022'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'matematica',
+    'qual é o resultado da operação 2+3x5?',
+    'o resultado é 17'
 )
 
 criaCartao(
-    'Programação',
-    'Qual a finalidade da variável em javascript?',
-    'Armazenar valores aleatórios a serem transcritos no html'
+    'história',
+    'em que ano foi criada a moeda real?',
+    'foi criado em 1994'
 )
 
 
 criaCartao(
-    'Programação',
-    'Qual a finalidade da variável em javascript?',
-    'Armazenar valores aleatórios a serem transcritos no html'
+    'conhecimentos',
+    'quantos dedos no total tem o presidente lula?',
+    '19,5'
 )
